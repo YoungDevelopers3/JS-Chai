@@ -5,7 +5,7 @@ let convertnum=Number(score);
 //console.log(typeof(convertnum));
 //console.log(convertnum);
 
-let status="deepak is logged in";
+let status="33";
 let num1=Number(status);
 console.log(typeof num1);
 console.log(num1);
