@@ -4,4 +4,6 @@ console.log(3
     +          //not a nice practice for code readability.
 3)
 
-console.log(typeof "Hitesh")
+console.log(typeof "Hitesh");
+
+
