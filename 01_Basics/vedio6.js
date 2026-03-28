@@ -7,4 +7,5 @@ let valueInNumber=Number(score)
 
 let value="                       "
 let strToBool=Boolean(value);
-console.log(strToBool);
+//console.log(strToBool);
+console.log(typeof (1+2+"2"));
